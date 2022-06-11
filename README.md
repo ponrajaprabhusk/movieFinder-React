@@ -1,5 +1,5 @@
 # Project Description:
-#### This is a simple React application which searches and returns the movie with its details when the user gives the name of the movie as input. This project is backed by a third-party API 
+#### This is a simple React application which searches and returns the movie with its details when the user gives the name of the movie as input. This project is backed by a third-party API !!
 
 # Getting Started with Create React App
 
