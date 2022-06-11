@@ -1,7 +1,9 @@
 # Project Description:
 #### This is a simple React application which searches and returns the movie with its details when the user gives the name of the movie as input. This project is backed by a third-party API !!
 
-# Getting Started with Create React App
+# Project Setup:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
